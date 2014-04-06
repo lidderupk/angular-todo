@@ -1,6 +1,11 @@
-# ToDo — the classic todo app in Angular using node, bower for dependency management and bootstap for UI
+# ToDo
+The classic todo app in Angular using node, bower for dependency management and bootstap for UI
 
 Big thanks to [John Lindquist](https://www.youtube.com/watch?v=WuiHuZq_cg4) for the tutorial. The project starts with [AngularJS](http://angularjs.org/) web app.
+
+
+### Screenshots
+![Screenshot](screenshots/screenshot1.png)
 
 ### Install Dependencies
 ```
